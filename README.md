@@ -4,11 +4,6 @@ DevNest is a .NET MAUI Android application designed to help you store and organi
 
 ## Features
 
-- Add, view, and remove project ideas
-- Organize ideas by name, description, and technology frameworks
-- Expand/collapse idea details for a clean overview
-- Modern UI built with .NET MAUI and CommunityToolkit.Mvvm
-
 ## Technologies
 
 - [.NET MAUI](https://learn.microsoft.com/dotnet/maui/) (Android target)
